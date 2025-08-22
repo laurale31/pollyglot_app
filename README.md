@@ -36,7 +36,10 @@ The following optional features are implemented:
 
 ## Video Walkthrough  
 
-https://github.com/user-attachments/assets/83035780-00b6-4617-b5f8-b82b7a9a3aef
+
+
+https://github.com/user-attachments/assets/ab4143b7-07fd-4878-98f4-11bfff80fc2b
+
 
 ---
 
