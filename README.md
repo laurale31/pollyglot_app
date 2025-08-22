@@ -35,7 +35,7 @@ The following optional features are implemented:
 ---
 
 ## Video Walkthrough  
-https://vimeo.com/1112416872?share=copy
+
 
 ---
 
