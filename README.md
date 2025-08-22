@@ -1,4 +1,4 @@
-# Project 2 - PollyGlot
+# PollyGlot
 
 **Laura Le**
 
