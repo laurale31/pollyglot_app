@@ -35,7 +35,16 @@ The following optional features are implemented:
 ---
 
 ## Video Walkthrough  
-
+<div align="center">
+  <iframe
+    src="https://player.vimeo.com/video/1112416872"
+    width="640"
+    height="360"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>
 
 ---
 
